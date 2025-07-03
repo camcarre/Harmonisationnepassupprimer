@@ -1,0 +1,13 @@
+{
+  "name": "harmonisation-addin-server",
+  "version": "1.0.0",
+  "description": "Serveur local pour l'add-in Excel d'harmonisation",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "xml2js": "^0.6.2",
+    "selfsigned": "^2.4.1"
+  }
+} 
