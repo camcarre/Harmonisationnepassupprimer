@@ -6,17 +6,17 @@
   <DefaultLocale>fr-FR</DefaultLocale>
   <DisplayName DefaultValue="Harmonisation Add-in"/>
   <Description DefaultValue="Add-in pour l'harmonisation des données Excel."/>
-  <IconUrl DefaultValue="https://localhost:5890/assets/icon-64.png"/>
-  <HighResolutionIconUrl DefaultValue="https://localhost:5890/assets/icon-80.png"/>
-  <SupportUrl DefaultValue="https://localhost:5890"/>
+  <IconUrl DefaultValue="https://harmonisationnepassupprimer-camcarres-projects.vercel.app/assets/icon-64.png"/>
+  <HighResolutionIconUrl DefaultValue="https://harmonisationnepassupprimer-camcarres-projects.vercel.app/assets/icon-80.png"/>
+  <SupportUrl DefaultValue="https://harmonisationnepassupprimer-camcarres-projects.vercel.app"/>
   <AppDomains>
-    <AppDomain>https://localhost:5890</AppDomain>
+    <AppDomain>https://harmonisationnepassupprimer-camcarres-projects.vercel.app</AppDomain>
   </AppDomains>
   <Hosts>
     <Host Name="Workbook"/>
   </Hosts>
   <DefaultSettings>
-    <SourceLocation DefaultValue="https://localhost:5890/taskpane.html"/>
+    <SourceLocation DefaultValue="https://harmonisationnepassupprimer-camcarres-projects.vercel.app/index.html"/>
   </DefaultSettings>
   <Permissions>ReadWriteDocument</Permissions>
   <VersionOverrides xmlns="http://schemas.microsoft.com/office/taskpaneappversionoverrides" xsi:type="VersionOverridesV1_0">
@@ -61,13 +61,13 @@
     </Hosts>
     <Resources>
       <bt:Images>
-        <bt:Image id="Icon.16x16" DefaultValue="https://localhost:5890/assets/icon-16.png"/>
-        <bt:Image id="Icon.32x32" DefaultValue="https://localhost:5890/assets/icon-32.png"/>
-        <bt:Image id="Icon.80x80" DefaultValue="https://localhost:5890/assets/icon-80.png"/>
+        <bt:Image id="Icon.16x16" DefaultValue="https://harmonisationnepassupprimer-camcarres-projects.vercel.app/assets/icon-16.png"/>
+        <bt:Image id="Icon.32x32" DefaultValue="https://harmonisationnepassupprimer-camcarres-projects.vercel.app/assets/icon-32.png"/>
+        <bt:Image id="Icon.80x80" DefaultValue="https://harmonisationnepassupprimer-camcarres-projects.vercel.app/assets/icon-80.png"/>
       </bt:Images>
       <bt:Urls>
-        <bt:Url id="GetStarted.LearnMoreUrl" DefaultValue="https://localhost:5890"/>
-        <bt:Url id="Taskpane.Url" DefaultValue="https://localhost:5890/taskpane.html"/>
+        <bt:Url id="GetStarted.LearnMoreUrl" DefaultValue="https://harmonisationnepassupprimer-camcarres-projects.vercel.app"/>
+        <bt:Url id="Taskpane.Url" DefaultValue="https://harmonisationnepassupprimer-camcarres-projects.vercel.app/index.html"/>
       </bt:Urls>
       <bt:ShortStrings>
         <bt:String id="GetStarted.Title" DefaultValue="Harmonisation Add-in"/>
